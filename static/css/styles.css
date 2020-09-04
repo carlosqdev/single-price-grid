@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas: "header" "prices" "why-us";
+}
+.container .header {
+  background: #ff8000;
+  grid-area: header;
+}
+.container .prices {
+  grid-area: prices;
+}
