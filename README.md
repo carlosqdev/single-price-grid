@@ -11,6 +11,6 @@ Solución a **challenge** de **https://www.frontendmentor.io/challenges**, landi
 2. CSS con Stylus.
 
 ## 💻 Instalación (Getting Started).
-1. Clona este repositorio `git https://github.com/carlosqdev/single-price-grid.git`
+1. Clona este repositorio `git clone https://github.com/carlosqdev/single-price-grid.git`
 2. Ve a la carpeta del proyecto `cd single-price-grid`
 3. Abre con tu editor de código `code .`
